@@ -3,16 +3,3 @@
 body{
     background-color: black;
 }
-.banner{
-    width: 1440px;
-    height: 605px;
-    border-bottom: 1px solid #33A8DB;
-    flex-shrink: 0;
-}
-
-.logo{
-    width: 248px;
-    height: 214px;
-    flex-shrink: 0;
-    background: url(assets/images/logo.png), lightgray 50% / cover no-repeat;
-}
