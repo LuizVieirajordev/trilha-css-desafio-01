@@ -27,6 +27,18 @@ h2{
 
 }
 
+
+.banner {
+    width: 1440px;
+    height: 605px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.60) 0%, rgba(49, 168, 221, 0.00) 100%);
+    background: url(/assets/images/banner.png), lightgray 50% / cover no-repeat;
+}
+
+
+
+
 button{
     display: flex;
     width: 326px;
