@@ -34,11 +34,12 @@ button{
     justify-content: center;
     align-items: center;
     gap: 31px;
-    color: #31A8DD;
+    border-color: #31A8DD;
+    border: 1px;
     text-align: center;
     font-family: Raleway;
     font-size: 16px;
-    font-style: normal;
+    font-style: normal linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
     font-weight: 900;
     line-height: normal;
     letter-spacing: 3.36px;
