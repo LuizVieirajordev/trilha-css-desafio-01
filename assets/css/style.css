@@ -26,3 +26,20 @@ h2{
     -webkit-text-fill-color: transparent;
 
 }
+
+button{
+    display: flex;
+    width: 326px;
+    padding: 19px 91px;
+    justify-content: center;
+    align-items: center;
+    gap: 31px;
+    color: #31A8DD;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 3.36px;
+}
