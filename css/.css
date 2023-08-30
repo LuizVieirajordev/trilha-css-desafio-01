@@ -1,5 +1,8 @@
 @import url(./reset.css);
 
+body{
+    background-color: black;
+}
 .banner{
     width: 1440px;
     height: 605px;
