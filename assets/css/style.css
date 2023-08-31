@@ -28,14 +28,25 @@ h2{
 }
 
 h1{
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.banner h1{
     font-size: 40px;
     font-style: normal;
     font-weight: 900;
+    text-transform: uppercase;
     line-height: normal;
     background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+
     
 }
 
