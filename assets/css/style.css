@@ -27,6 +27,17 @@ h2{
 
 }
 
+h1{
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
 
 .banner {
   background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url(../images/banner.png);
@@ -68,3 +79,4 @@ button{
     line-height: normal;
     letter-spacing: 3.36px;
 }
+
