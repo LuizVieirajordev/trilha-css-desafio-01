@@ -82,6 +82,10 @@ h1{
     background-image: url(../images/logo.png), lightgray 50% / cover no-repeat;
 }
 
+.banner .banner-content{
+    text-align: center;
+}
+
 button{
     display: flex;
     width: 326px;
