@@ -87,24 +87,16 @@ h1{
 }
 
 .banner .banner-content button{
-    display: flex;
-    width: 326px;
-    padding: 19px 91px;
-    justify-content: center;
-    align-items: center;
-    gap: 31px;
-    border-color: #31A8DD;
-    border: 2px;
-    text-align: center;
-    font-family: Raleway;
-    font-size: 16px;
-    font-style: normal linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
-    font-weight: 900;
-    line-height: normal;
-    letter-spacing: 3.36px;
-    background-color: transparent;
-    border-image: linear-gradient(#3BA1CD, #1572B7);
-    border-image-slice: 10;
-    border-radius: 30px;
+         color: #31A8DD;
+        font-size: 1rem;
+        font-weight: bold;
+        padding: 16px 32px;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        background-color: transparent;
+        border-image: linear-gradient(#3BA1CD, #1572B7);
+        border-image-slice: 10;
+        border-radius: 30px;
+    
 }
 
