@@ -29,7 +29,8 @@ h2{
 
 
 .banner {
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.60) 0%, rgba(49, 168, 221, 0.00) 100%), url('assets/images/banner.png');
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.60) 0%, rgba(49, 168, 221, 0.00) 100%), url('/assets/images/banner.png'), lightgray 50%;
+  
   background-size: cover;
   background-repeat: no-repeat;
   height: 600px;
