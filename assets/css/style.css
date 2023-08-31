@@ -86,7 +86,7 @@ h1{
     text-align: center;
 }
 
-button{
+.banner .banner-content button{
     display: flex;
     width: 326px;
     padding: 19px 91px;
@@ -94,7 +94,7 @@ button{
     align-items: center;
     gap: 31px;
     border-color: #31A8DD;
-    border: 1px;
+    border: 2px;
     text-align: center;
     font-family: Raleway;
     font-size: 16px;
@@ -102,5 +102,9 @@ button{
     font-weight: 900;
     line-height: normal;
     letter-spacing: 3.36px;
+    background-color: transparent;
+    border-image: linear-gradient(#3BA1CD, #1572B7);
+    border-image-slice: 10;
+    border-radius: 30px;
 }
 
