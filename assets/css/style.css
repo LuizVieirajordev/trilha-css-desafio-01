@@ -131,3 +131,11 @@ section {
   }
   
   
+  .course-content{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+  }
+
