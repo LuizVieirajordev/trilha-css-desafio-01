@@ -82,6 +82,19 @@ body {
     border-radius: 30px;
   }
   
+  .banner .banner-content button:hover {
+    color: #e5eff3;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 16px 32px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background-color: transparent;
+    border-image: linear-gradient(#e8f0f3, #f3f7fa);
+    border-image-slice: 10;
+    border-radius: 30px;
+    cursor: pointer;
+  }
   
   
   #course-content {
