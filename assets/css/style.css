@@ -82,6 +82,7 @@ section {
 
 .banner .banner-content{
     text-align: center;
+    margin: auto;
 }
 
 .banner .banner-content button{
